@@ -6,13 +6,11 @@ Multiplecation and
 Division
 
 
-Inside the terminal, you need to open the folder that contains the package.json file. This is because you need to install the node_modules folder using the"npm install" command, with your terminal pointing to the folder that contains the package.json file. You should be familiar with these steps because they are the same ones you've had to take while working on the ungraded labs in the course's live code labs.
+Inside the terminal, you need to open the folder that contains the package.json file. This is because you need to install the node_modules folder using the"npm install" command, with your terminal pointing to the folder that contains the package.json file. You should be familiar with these steps.
 
-Once the npm install command is finished, you can serve the app locally by running the "npm start" command, with your terminal still pointing at the folder containing your peer's app files.
+Once the npm install command is finished, you can serve the app locally by running the "npm start" command, with your terminal still pointing at the folder containing your project.
 
-Alternatively, you can copy and paste your my code in the App.js file in the project folder using any IDE. For this exercise.
-
-If you execute the "npm start" command before changing any code in this task, you'll get the notification in the code lab's terminal that reads "webpack compiled successfully".
+Alternatively, you can copy and paste the code in the App.js file using any IDE.
 
 1.Type the number 1 into the input field. Press the add button.
 2.The 0 above the input change to 1 after you pressed the add button
