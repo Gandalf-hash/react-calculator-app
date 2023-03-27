@@ -1,24 +1,31 @@
-# react-calculator-app
-So I have built a simple calculator App using React, this is a very simple and basic project the aim was to apply the skills I've learnt in a real world project.these React calculator app can;
-1.perfom the four basic math operations like;
-Addition
-Subtraction
-Multiplecation and
-Division
+This project is bootstrapped with [`create-react-app`](https://github.com/Gandalf-hash/react-calculator-app).
+
+## Getting Started
+
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+You can start editing the project by modifying `App.Js`.
 
 
-Inside the terminal, you need to open the folder that contains the package.json file. This is because you need to install the node_modules folder using the"npm install" command, with your terminal pointing to the folder that contains the package.json file. You should be familiar with these steps because they are the same ones you've had to take while working on the ungraded labs in the course's live code labs.
+## Learn More
 
-Once the npm install command is finished, you can serve the app locally by running the "npm start" command, with your terminal still pointing at the folder containing your peer's app files.
+To learn more about Next.js, take a look at the following resources:
 
-Alternatively, you can copy and paste your my code in the App.js file in the project folder using any IDE. For this exercise.
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-If you execute the "npm start" command before changing any code in this task, you'll get the notification in the code lab's terminal that reads "webpack compiled successfully".
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-1.Type the number 1 into the input field. Press the add button.
-2.The 0 above the input change to 1 after you pressed the add button
-3.Press the reset input button, then the reset result button, so that the number in the input field and above the input field are both reset to 0.
-4.Type the number 10 into the input field. Press the add button. The 0 above the input should change to 10
-5.Repeat step 3
-6.Type the number 20 into the input field, then press the add button. With the number 20 now showing above the input field, and the number 20 showing inside the input field, press the divide button and repeat step 3
-7.Type the number 100 into the input field, then press the add button. With the number 100 now showing above the input field, change the number in the input field to 60. Press the subtract button.
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
